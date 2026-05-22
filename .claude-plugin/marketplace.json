@@ -1,0 +1,28 @@
+{
+  "name": "yusufkaracaburun",
+  "description": "Claude Code plugin marketplace by yusufkaracaburun — catalog of skill/plugin bundles for the agile lifecycle and beyond.",
+  "owner": {
+    "name": "Yusuf Karacaburun",
+    "email": "info@emeq.nl"
+  },
+  "plugins": [
+    {
+      "name": "ai-kit",
+      "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor — 20 skills (aikit-setup, aikit-ship, aikit-tdd, aikit-retro, …), 3 subagents (aikit-explore, aikit-reviewer, aikit-qa-runner), 5 slash commands (/aikit-doctor, /aikit-which, /aikit-status, /aikit-no-globals, /aikit-upgrade), and a PostToolUse skill-logging hook (opt-in).",
+      "version": "2.0.0",
+      "category": "agile-lifecycle",
+      "author": {
+        "name": "Yusuf Karacaburun",
+        "email": "info@emeq.nl"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/yusufkaracaburun/ai-kit.git",
+        "path": "workflow",
+        "ref": "v2.0.0"
+      },
+      "homepage": "https://github.com/yusufkaracaburun/ai-kit",
+      "license": "MIT"
+    }
+  ]
+}
