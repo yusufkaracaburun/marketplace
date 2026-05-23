@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "ai",
-      "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor \u2014 23 skills (setup, ship, tdd, retro, \u2026), 3 subagents (explore, reviewer, qa-runner), 7 slash commands (/ai:doctor, /ai:which, /ai:status, /ai:no-globals, /ai:upgrade, /ai:next, /ai:prefer-plugin), and a PostToolUse skill-logging hook (opt-in).",
-      "version": "1.0.0",
+      "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor \u2014 24 skills (setup, ship, tdd, retro, should-i-use, \u2026), 3 subagents (explore, reviewer, qa-runner), 8 slash commands (/ai:doctor, /ai:dedupe, /ai:which, /ai:status, /ai:no-globals, /ai:upgrade, /ai:next, /ai:prefer-plugin), and a PostToolUse skill-logging hook (opt-in). Tracks ai-kit master \u2014 every release ships to /plugin update automatically.",
+      "version": "latest",
       "category": "agile-lifecycle",
       "author": {
         "name": "Yusuf Karacaburun",
@@ -19,7 +19,7 @@
         "source": "git-subdir",
         "url": "https://github.com/yusufkaracaburun/ai-kit.git",
         "path": "workflow",
-        "ref": "v1.0.0"
+        "ref": "master"
       },
       "homepage": "https://github.com/yusufkaracaburun/ai-kit",
       "license": "MIT"
