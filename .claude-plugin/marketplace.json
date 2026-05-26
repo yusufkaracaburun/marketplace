@@ -1,6 +1,6 @@
 {
   "name": "yusufkaracaburun",
-  "description": "Claude Code plugin marketplace by yusufkaracaburun — catalog of skill/plugin bundles for the agile lifecycle and beyond.",
+  "description": "Claude Code plugin marketplace by yusufkaracaburun \u2014 catalog of skill/plugin bundles for the agile lifecycle and beyond.",
   "owner": {
     "name": "Yusuf Karacaburun",
     "email": "info@emeq.nl"
@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "ai",
-      "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor — 30 skills (setup, ship, tdd, retro, should-i-use, phase, …), 3 subagents (explore, reviewer, qa-runner), 10 slash commands (/ai:doctor, /ai:dedupe, /ai:which, /ai:status, /ai:no-globals, /ai:upgrade, /ai:next, /ai:prefer-plugin, /ai:hygiene, /ai:phase), and a PostToolUse skill-logging hook (opt-in). Tracks ai-kit master — every release ships to /plugin update automatically.",
-      "version": "1.20.3",
+      "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor \u2014 30 skills (setup, ship, tdd, retro, should-i-use, phase, \u2026), 3 subagents (explore, reviewer, qa-runner), 10 slash commands (/ai:doctor, /ai:dedupe, /ai:which, /ai:status, /ai:no-globals, /ai:upgrade, /ai:next, /ai:prefer-plugin, /ai:hygiene, /ai:phase), and a PostToolUse skill-logging hook (opt-in). Tracks ai-kit master \u2014 every release ships to /plugin update automatically.",
+      "version": "1.21.0",
       "category": "agile-lifecycle",
       "author": {
         "name": "Yusuf Karacaburun",
@@ -19,7 +19,7 @@
         "source": "git-subdir",
         "url": "https://github.com/yusufkaracaburun/ai-kit.git",
         "path": "workflow",
-        "ref": "v1.20.3"
+        "ref": "v1.21.0"
       },
       "homepage": "https://github.com/yusufkaracaburun/ai-kit",
       "license": "MIT"
