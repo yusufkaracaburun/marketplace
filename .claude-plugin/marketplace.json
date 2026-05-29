@@ -9,7 +9,7 @@
     {
       "name": "ai",
       "description": "Stack-agnostic agile lifecycle for Claude Code + Cursor — 30 skills (setup, ship, tdd, retro, should-i-use, phase, …), 3 subagents (explore, reviewer, qa-runner), 10 slash commands (/ai:doctor, /ai:dedupe, /ai:which, /ai:status, /ai:no-globals, /ai:upgrade, /ai:next, /ai:prefer-plugin, /ai:hygiene, /ai:phase), and a PostToolUse skill-logging hook (opt-in). Tracks ai-kit master — every release ships to /plugin update automatically.",
-      "version": "1.37.0",
+      "version": "1.38.0",
       "category": "agile-lifecycle",
       "author": {
         "name": "Yusuf Karacaburun",
@@ -19,7 +19,7 @@
         "source": "git-subdir",
         "url": "https://github.com/yusufkaracaburun/ai-kit.git",
         "path": "workflow",
-        "ref": "v1.37.0"
+        "ref": "v1.38.0"
       },
       "homepage": "https://github.com/yusufkaracaburun/ai-kit",
       "license": "MIT"
